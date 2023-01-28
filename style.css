@@ -12,8 +12,9 @@ body {
     background-size: cover;
 }
 
+/*learn more: (background: linear-gradient(transparent, #fff);)*/
 .zoom::before {
-    content: '';
+    content: "";
     position: absolute;
     bottom: 0;
     width: 100%;
